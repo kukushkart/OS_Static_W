@@ -1,3 +1,4 @@
+//testStaticLib
 #include <iostream>
 #include "Number.h"
 
@@ -8,4 +9,5 @@ int main() {
 
     std::cout << "Result: " << c.GetValue() << std::endl;
     return 0;
+
 }
